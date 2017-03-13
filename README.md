@@ -1,8 +1,8 @@
-## Disasteroids
+# Disasteroids
 
 An experiment in canvas games & websockets.
 
-# TODO
+## TODO
 - Create player
 - Websockets implementation
 - Game loop
